@@ -1,6 +1,6 @@
 ## Basic Configuration
 
-baseurl = "https://bss.pages.dev"
+baseurl = "https://software-services.ch"
 builddrafts = false
 canonifyurls = false
 languageCode = "en-US"
@@ -38,7 +38,7 @@ twitter = "gran_viaje"
 email = "ben@software-services.ch"
 
 [params.plausible]
-enable = true
+enable = "true"
 domain = "software-services.ch"
 
 ## Extras
