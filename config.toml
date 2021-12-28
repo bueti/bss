@@ -21,7 +21,7 @@ enableRobotsTXT = true
 [params]
 author = "Software Services"
 intro = "Development and consulting"
-description = "Now @Ricardo and @iOverlander. Previously @Microsoft, @Avaloq and @Sunrise."
+description = "Currently Ricardo and iOverlander. Previously Microsoft, Avaloq and Sunrise."
 authorimage = "headshot.jpg"
 dateformat = "Jan 2, 2006"
 
