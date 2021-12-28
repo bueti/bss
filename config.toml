@@ -40,6 +40,8 @@ email = "ben@software-services.ch"
 [params.plausible]
 enable = "true"
 domain = "software-services.ch"
+gitstar = false
+debug = true
 
 ## Extras
 [params.extra]
