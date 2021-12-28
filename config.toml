@@ -12,7 +12,7 @@ publishdir = "public"
 author = "Benjamin Buetikofer"
 title = "Software Services"
 
-theme = "hugo-goa"
+theme = ["hugo-goa","plausible-hugo"]
 
 ## Hugo Built-in Features
 enableRobotsTXT = true
@@ -37,6 +37,9 @@ linkedin = "benjamin-bütikofer-59584b64"
 twitter = "gran_viaje"
 email = "ben@software-services.ch"
 
+[params.plausible]
+enable = true
+domain = "software-services.ch"
 
 ## Extras
 [params.extra]
